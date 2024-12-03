@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "/assets/images/resource/icon1.png",
+    "title": "Fitness Coaching",
+    "desc": "Customized workout plans designed to match your goals, whether it’s weight loss, muscle gain, or improving endurance. Every plan is tailored to your unique needs, helping you achieve results safely and effectively."
+  },
+  {
+    "icon": "/assets/images/resource/icon2.png",
+    "title": "Nutrition Planning",
+    "desc": "Learn how to fuel your body for optimal performance. Our nutrition plans are created based on your dietary preferences, lifestyle, and health goals, ensuring you get the nutrients you need to thrive" 
+  },
+  {
+    "icon": "/assets/images/resource/icon3.png",
+    "title": "Mindset & Motivation",
+    "desc": "Achieving lasting change starts in the mind. Through mindset coaching, we help you build the discipline and motivation needed to stay on track with your goals." 
+  }
+]
