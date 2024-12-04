@@ -141,7 +141,7 @@ const ServiceDetails = () => {
 									<h4> Training and Coaching </h4>
 								</div>
 								<div className="service-work-process-desc">
-									<p>Through detailed guidance, you'll build strength, endurance, and confidence.</p>
+									<p>Through detailed guidance, you&lsquo;ll build strength, endurance, and confidence.</p>
 								</div>
 							</div>
 						</div>
