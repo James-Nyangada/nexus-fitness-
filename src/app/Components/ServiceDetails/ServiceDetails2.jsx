@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const ServiceDetails = () => {
+const ServiceDetails2 = () => {
     return (
         <div className="service-detials-area">
 		<div className="container">
@@ -15,10 +15,10 @@ const ServiceDetails = () => {
 								</div>
 								<div className="service-details-content">
 									<div className="service-page-title">
-										<h1> Best Personal Training Services</h1>
+										<h1> Best Aerobics Services</h1>
 									</div>
 									<div className="serivce-details-desc">
-										<p>Our personal training services are rooted in over a decade of experience. We combine science-backed techniques, individualized care, and motivational coaching to ensure you achieve results efficiently and safely. With us, its not just about workouts — its about building a healthier, stronger, and more confident you.</p>
+										<p>Aerobics is a fantastic way to improve cardiovascular health, burn calories, and reduce stress. Our classes are tailored for all fitness levels, incorporating rhythmic movements, music, and high-energy routines.</p>
 										
 									</div>
 								</div>
@@ -33,7 +33,7 @@ const ServiceDetails = () => {
 									<h4> Proper Services </h4>
 								</div>
 								<div className="services-detials-desc">
-									<p>One-on-One Sessions: Individualized focus for tailored results.</p>
+									<p>Group Classes: Energizing sessions for all fitness levels.</p>
 								</div>
 							</div>
 						</div>
@@ -46,7 +46,9 @@ const ServiceDetails = () => {
 									<h4> Work Steps </h4>
 								</div>
 								<div className="services-detials-desc">
-									<p>Assessment: Understanding your current fitness level and goals.</p>
+									<p>Join Classes: Sign up for sessions that match your schedule and goals.</p>
+									<p>Engage & Move: Enjoy fun, guided aerobic exercises with expert instructors.</p>
+									<p>Track Progress: Monitor your stamina and endurance improvements.</p>
 								</div>
 							</div>
 						</div>
@@ -59,7 +61,7 @@ const ServiceDetails = () => {
 									<h4>Maintain Trends </h4>
 								</div>
 								<div className="services-detials-desc">
-									<p>We integrate cutting-edge fitness trends like functional training, progressive overload techniques, and mobility work, ensuring you stay ahead in achieving your health goals.</p>
+									<p>Our aerobics routines incorporate popular trends like dance aerobics, step workouts, and high-intensity intervals to keep things fresh and exciting.</p>
 								</div>
 							</div>
 						</div>
@@ -72,7 +74,7 @@ const ServiceDetails = () => {
 									<h4> 24/7 Services </h4>
 								</div>
 								<div className="services-detials-desc">
-									<p>Enjoy access to fitness support around the clock with virtual check-ins, recovery tips, and lifestyle guidance, keeping you motivated at all times.</p>
+									<p>Access pre-recorded sessions and training tips anytime, so you never miss a workout.</p>
 								</div>
 							</div>
 						</div>
@@ -82,7 +84,7 @@ const ServiceDetails = () => {
 									<h1>Research Trend Market</h1>
 								</div>
 								<div className="serivce-details-desc">
-									<p className="pb-4">We continually refine our methods by studying modern fitness methodologies. Whether its understanding the biomechanics of movement or the latest in recovery strategies, our services evolve with science.</p>
+									<p className="pb-4">We continuously update our programs by studying fitness trends, ensuring our aerobics classes deliver maximum fun and results.</p>
 								</div>
 							</div>
 						</div>
@@ -97,12 +99,12 @@ const ServiceDetails = () => {
 									<h1>What You Benifits</h1>
 								</div>
 								<div className="widget-service-details-icon">
-									<p><i className="bi bi-check-lg"></i> <span>Professional Expertise: Over 10 years of experience in fitness coaching.
+									<p><i className="bi bi-check-lg"></i> <span>Cardiovascular Health: Strengthen your heart and lungs.
 										</span></p>
-									<p><i className="bi bi-check-lg"></i> <span> Customized Plans: No cookie-cutter routines, only what works for you. </span></p>
-									<p><i className="bi bi-check-lg"></i> <span> Turbo Boosting
+									<p><i className="bi bi-check-lg"></i> <span> Stress Relief: Feel energized and relaxed after every session.</span></p>
+									<p><i className="bi bi-check-lg"></i> <span> Community Support: Work out with a group of like-minded individuals.
 										</span></p>
-									<p><i className="bi bi-check-lg"></i> <span> Motivational Coaching: Consistent support to keep you on track. </span></p>
+									<p><i className="bi bi-check-lg"></i> <span> Increased Stamina: Build endurance with consistent training.</span></p>
 								</div>
 							</div>
 
@@ -128,7 +130,7 @@ const ServiceDetails = () => {
 									<h4> Plan Sessions </h4>
 								</div>
 								<div className="service-work-process-desc">
-									<p>We start by learning about your goals and designing a structured fitness plan tailored for your success.</p>
+									<p>Join a program that matches your fitness goals and schedule.</p>
 								</div>
 							</div>
 						</div>
@@ -141,7 +143,7 @@ const ServiceDetails = () => {
 									<h4> Training and Coaching </h4>
 								</div>
 								<div className="service-work-process-desc">
-									<p>Through detailed guidance, you'll build strength, endurance, and confidence.</p>
+									<p>Experience engaging sessions led by experienced instructors.</p>
 								</div>
 							</div>
 						</div>
@@ -154,7 +156,7 @@ const ServiceDetails = () => {
 									<h4> Deliver </h4>
 								</div>
 								<div className="service-work-process-desc">
-									<p>Achieve your desired results and transition into self-sustained fitness with our expertise.</p>
+									<p>Enjoy improved health, energy, and a love for movement.</p>
 								</div>
 							</div>
 						</div>
@@ -205,4 +207,4 @@ const ServiceDetails = () => {
     );
 };
 
-export default ServiceDetails;
+export default ServiceDetails2;

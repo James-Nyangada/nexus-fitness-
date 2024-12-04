@@ -1,5 +1,5 @@
 import BreadCumb from '@/app/Components/Common/BreadCumb';
-import ServiceDetails from '@/app/Components/ServiceDetails/ServiceDetails';
+import ServiceDetails2 from '@/app/Components/ServiceDetails/ServiceDetails2';
 import React from 'react';
 
 const page = () => {
@@ -8,10 +8,10 @@ const page = () => {
             <BreadCumb
                 bgImg="/assets/images/resource/hero.png"
                 subTitle="Service Details"
-                title="We Provide Awesome <br>Service Details"
-                content="Ullamcorper risus ultrices risus lorem. Mollis libero in pellentesque Vulputate ut aliquam, consectetur turpis"
+                title="We Provide Awesome <br>Aerobics Sessions"
+                content="Dance, sweat, and energize your body with dynamic aerobics classes designed to make fitness fun and effective."
             ></BreadCumb>
-            <ServiceDetails></ServiceDetails>
+            <ServiceDetails2></ServiceDetails2>
         </div>
     );
 };

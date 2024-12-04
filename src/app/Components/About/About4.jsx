@@ -31,7 +31,7 @@ const About4 = () => {
 						</span></p>
 					</div>
 					<div className="about-button">
-						<Link className="dexon-button" href="/service/service-details">Start Your Training Journey Today <i className="bi bi-arrow-right-short"></i> </Link>
+						<Link className="dexon-button" href="/service/personal-training">Start Your Training Journey Today <i className="bi bi-arrow-right-short"></i> </Link>
 					</div>
 				</div>
 			</div>
@@ -50,7 +50,7 @@ const About4 = () => {
 						</span></p>
 					</div>
 					<div className="about-button">
-						<Link className="dexon-button" href="/service/service-details">Get Your Nutrition Plan<i className="bi bi-arrow-right-short"></i> </Link>
+						<Link className="dexon-button" href="/service/nutrition-coaching">Get Your Nutrition Plan<i className="bi bi-arrow-right-short"></i> </Link>
 					</div>
 				</div>
 			</div>
@@ -63,13 +63,13 @@ const About4 = () => {
 				<div className="col-lg-6" >
 					<div className="dexon-section-title">
 						<h1>Aerobics</h1>
-						
-						<p>Access the same expert coaching no matter where you are. Our online coaching program includes workout plans, nutrition guidance, and regular check-ins to keep you on track with your fitness journey.<br/> <span>
+						{/* Text for aerobics */}
+						<p>Aerobics is a fantastic way to improve cardiovascular health, burn calories, and reduce stress. Our classes are tailored for all fitness levels, incorporating rhythmic movements, music, and high-energy routines. <br/> <span>
 						Enthusiastically negotiate highly efficient manufactured products whereas distributed services. Conveniently impact e-business
 						</span></p>
 					</div>
 					<div className="about-button">
-						<Link className="dexon-button" href="/service/service-details">Learn More About Aerobics <i className="bi bi-arrow-right-short"></i> </Link>
+						<Link className="dexon-button" href="/service/aerobics">Learn More About Aerobics <i className="bi bi-arrow-right-short"></i> </Link>
 					</div>
 				</div>
 			</div>

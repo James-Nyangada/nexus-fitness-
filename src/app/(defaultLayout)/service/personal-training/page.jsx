@@ -9,7 +9,7 @@ const page = () => {
                 bgImg="/assets/images/resource/hero.png"
                 subTitle="Service Details"
                 title="We Provide Awesome <br>Service Details"
-                content="Ullamcorper risus ultrices risus lorem. Mollis libero in pellentesque Vulputate ut aliquam, consectetur turpis"
+                content="Unlock your full potential with customized fitness plans designed just for you. Whether your goal is weight loss, strength building, or overall well-being, we guide you every step of the way."
             ></BreadCumb>
             <ServiceDetails></ServiceDetails>
         </div>

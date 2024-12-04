@@ -20,13 +20,13 @@ const clashdisplay = localFont({
 export const metadata = {
   title: {
     absolute: '',
-    default: 'Dexon - SEO & Digital Marketing Agency NextJS Template',
-    template: '%s | Dexon - SEO & Digital Marketing Agency NextJS Template',
+    default: 'Nexus - Welcome to your fitness home',
+    template: '%s | Nexus - Welcome to your fitness home',
   },
-  description: 'Dexon - SEO & Digital Marketing Agency NextJS Template',
+  description: 'Nexus - Welcome to your fitness home',
   openGraph: {
-    title: 'Dexon - SEO & Digital Marketing Agency NextJS Template',
-    description: 'Dexon - SEO & Digital Marketing Agency NextJS Template',
+    title: 'Nexus - Welcome to your fitness home',
+    description: 'Nexus - Welcome to your fitness home',
     image: '/openGraphImage.jpg',
   },
 };
@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <meta name="author" content="Themeservices" />
+        <meta name="author" content="Estetica Agency" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
       <body className={`${kumbh_sans.variable} ${clashdisplay.variable}`}>

@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const ServiceDetails = () => {
+const ServiceDetails1 = () => {
     return (
         <div className="service-detials-area">
 		<div className="container">
@@ -15,10 +15,10 @@ const ServiceDetails = () => {
 								</div>
 								<div className="service-details-content">
 									<div className="service-page-title">
-										<h1> Best Personal Training Services</h1>
+										<h1> Best Nutrition Coaching Services</h1>
 									</div>
 									<div className="serivce-details-desc">
-										<p>Our personal training services are rooted in over a decade of experience. We combine science-backed techniques, individualized care, and motivational coaching to ensure you achieve results efficiently and safely. With us, its not just about workouts — its about building a healthier, stronger, and more confident you.</p>
+										<p>Our nutrition coaching program combines scientific knowledge with practical application. Whether you are looking to lose weight, gain muscle, or simply improve your eating habits, we guide you through every step with meal plans, dietary education, and accountability.</p>
 										
 									</div>
 								</div>
@@ -33,7 +33,8 @@ const ServiceDetails = () => {
 									<h4> Proper Services </h4>
 								</div>
 								<div className="services-detials-desc">
-									<p>One-on-One Sessions: Individualized focus for tailored results.</p>
+									<p>Custom Meal Plans: Designed for your body type and goals.</p>
+									<p>Nutritional Education: Learn the why behind every food choice.</p>
 								</div>
 							</div>
 						</div>
@@ -46,7 +47,9 @@ const ServiceDetails = () => {
 									<h4> Work Steps </h4>
 								</div>
 								<div className="services-detials-desc">
-									<p>Assessment: Understanding your current fitness level and goals.</p>
+									<p>Consultation: Understanding your goals, dietary preferences, and lifestyle.</p>
+									<p>Plan Creation: Developing a flexible nutrition plan that works for you.</p>
+									<p>Ongoing Support: Regular check-ins and plan adjustments as needed.</p>
 								</div>
 							</div>
 						</div>
@@ -59,7 +62,7 @@ const ServiceDetails = () => {
 									<h4>Maintain Trends </h4>
 								</div>
 								<div className="services-detials-desc">
-									<p>We integrate cutting-edge fitness trends like functional training, progressive overload techniques, and mobility work, ensuring you stay ahead in achieving your health goals.</p>
+									<p>Stay informed with the latest nutrition trends, including plant-based diets, intermittent fasting, and macro counting, to find what works best for you.</p>
 								</div>
 							</div>
 						</div>
@@ -72,7 +75,7 @@ const ServiceDetails = () => {
 									<h4> 24/7 Services </h4>
 								</div>
 								<div className="services-detials-desc">
-									<p>Enjoy access to fitness support around the clock with virtual check-ins, recovery tips, and lifestyle guidance, keeping you motivated at all times.</p>
+									<p>Our experts are just a message away to answer your dietary questions and provide support when you need it most.</p>
 								</div>
 							</div>
 						</div>
@@ -82,7 +85,7 @@ const ServiceDetails = () => {
 									<h1>Research Trend Market</h1>
 								</div>
 								<div className="serivce-details-desc">
-									<p className="pb-4">We continually refine our methods by studying modern fitness methodologies. Whether its understanding the biomechanics of movement or the latest in recovery strategies, our services evolve with science.</p>
+									<p className="pb-4">We stay ahead of the curve by analyzing emerging nutritional strategies, enabling us to provide cutting-edge coaching for sustainable health improvements.</p>
 								</div>
 							</div>
 						</div>
@@ -97,12 +100,12 @@ const ServiceDetails = () => {
 									<h1>What You Benifits</h1>
 								</div>
 								<div className="widget-service-details-icon">
-									<p><i className="bi bi-check-lg"></i> <span>Professional Expertise: Over 10 years of experience in fitness coaching.
+									<p><i className="bi bi-check-lg"></i> <span>Healthier Eating Habits: Build a sustainable relationship with food.
 										</span></p>
-									<p><i className="bi bi-check-lg"></i> <span> Customized Plans: No cookie-cutter routines, only what works for you. </span></p>
+									<p><i className="bi bi-check-lg"></i> <span> Expert Guidance: Receive science-backed advice from seasoned nutritionists.</span></p>
 									<p><i className="bi bi-check-lg"></i> <span> Turbo Boosting
 										</span></p>
-									<p><i className="bi bi-check-lg"></i> <span> Motivational Coaching: Consistent support to keep you on track. </span></p>
+									<p><i className="bi bi-check-lg"></i> <span> Goal-Oriented Planning: Every bite counts towards your fitness goals.</span></p>
 								</div>
 							</div>
 
@@ -125,10 +128,10 @@ const ServiceDetails = () => {
 									<span>01</span>
 								</div>
 								<div className="service-work-process-title">
-									<h4> Plan Sessions </h4>
+									<h4> Plan Meal </h4>
 								</div>
 								<div className="service-work-process-desc">
-									<p>We start by learning about your goals and designing a structured fitness plan tailored for your success.</p>
+									<p>Craft a personalized nutrition strategy aligned with your health and fitness goals.</p>
 								</div>
 							</div>
 						</div>
@@ -138,10 +141,10 @@ const ServiceDetails = () => {
 									<span>02</span>
 								</div>
 								<div className="service-work-process-title">
-									<h4> Training and Coaching </h4>
+									<h4> Follow Through </h4>
 								</div>
 								<div className="service-work-process-desc">
-									<p>Through detailed guidance, you'll build strength, endurance, and confidence.</p>
+									<p>Follow the plan with our consistent support and guidance.</p>
 								</div>
 							</div>
 						</div>
@@ -151,10 +154,10 @@ const ServiceDetails = () => {
 									<span>03</span>
 								</div>
 								<div className="service-work-process-title">
-									<h4> Deliver </h4>
+									<h4> Result</h4>
 								</div>
 								<div className="service-work-process-desc">
-									<p>Achieve your desired results and transition into self-sustained fitness with our expertise.</p>
+									<p>Achieve a healthier, energized, and more confident version of yourself.</p>
 								</div>
 							</div>
 						</div>
@@ -205,4 +208,4 @@ const ServiceDetails = () => {
     );
 };
 
-export default ServiceDetails;
+export default ServiceDetails1;
