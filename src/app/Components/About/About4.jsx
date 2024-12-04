@@ -45,7 +45,7 @@ const About4 = () => {
 					<div className="dexon-section-title">
 						<h1>Nutrition Coaching</h1>
 						
-						<p>Fuel your body right with our personalized nutrition coaching. We’ll work together to create a nutrition plan that fits your lifestyle and helps you achieve your goals, whether that's weight loss, muscle gain, or simply feeling healthier<br/> <span>
+						<p>Fuel your body right with our personalized nutrition coaching. We&apos;ll work together to create a nutrition plan that fits your lifestyle and helps you achieve your goals, whether that's weight loss, muscle gain, or simply feeling healthier<br/> <span>
 						Enthusiastically negotiate highly efficient manufactured products whereas distributed services. Conveniently impact e-business
 						</span></p>
 					</div>

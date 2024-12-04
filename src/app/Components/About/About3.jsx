@@ -57,7 +57,7 @@ const About3 = () => {
 				<div className="col-lg-8">
 					<div className="dexon-section-title">
 						<h1> Growing your Health using </h1>
-						<h1 className="sections">Andy's Services</h1>
+						<h1 className="sections">Andy&apos;s Services</h1>
 					</div>
 					<div className="rs-video">
 						<div className="animate-border" onClick={handelClick}>
