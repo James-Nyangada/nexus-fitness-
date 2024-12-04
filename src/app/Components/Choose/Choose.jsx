@@ -56,7 +56,7 @@ const Choose = () => {
 				<div className="col-lg-8">
 					<div className="dexon-section-title padding-lg">
 						<h1> Reasons to choose</h1>
-						<h1 className="sections">Andy's Services</h1>
+						<h1 className="sections">Andy&apos;s Services</h1>
 					</div>	
 				</div>
 				<div className="col-lg-4">
