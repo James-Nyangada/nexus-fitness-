@@ -19,7 +19,7 @@ const About4 = () => {
 			<div className="row align-items-center " style={{ marginBottom: '20px' }}>
 				<div className="col-lg-6 col-md-12">
 					<div className="about-left-thumb">
-					<Image src="/assets/images/resource/about7.png" alt="img" width={580} height={493}   />
+					<Image src="/assets/images/resource/personal.webp" alt="img" width={580} height={493}   />
 					</div>
 				</div>
 				<div className="col-lg-6">
@@ -38,7 +38,7 @@ const About4 = () => {
 			<div className="row align-items-center" style={{ marginBottom: '20px' }}>
 				<div className="col-lg-6 col-md-12">
 					<div className="about-left-thumb">
-					<Image src="/assets/images/resource/about7.png" alt="img" width={580} height={493}   />
+					<Image src="/assets/images/resource/nutrition.webp" alt="img" width={580} height={493}   />
 					</div>
 				</div>
 				<div className="col-lg-6">
@@ -57,7 +57,7 @@ const About4 = () => {
 			<div className="row align-items-center " style={{ marginBottom: '20px' }}>
 				<div className="col-lg-6 col-md-12">
 					<div className="about-left-thumb">
-					<Image src="/assets/images/resource/about7.png" alt="img" width={580} height={493}   />
+					<Image src="/assets/images/resource/aerobics.webp" alt="img" width={580} height={493}   />
 					</div>
 				</div>
 				<div className="col-lg-6" >
@@ -76,57 +76,52 @@ const About4 = () => {
 			<div className="row align-items-center " style={{ marginBottom: '20px' }}>
 				<div className="col-lg-6 col-md-12">
 					<div className="about-left-thumb">
-					<Image src="/assets/images/resource/about7.png" alt="img" width={580} height={493}   />
+					<Image src="/assets/images/resource/athletics.webp" alt="img" width={580} height={493}   />
 					</div>
 				</div>
 				<div className="col-lg-6" >
 					<div className="dexon-section-title">
 						<h1>Atheltic Mentoring</h1>
 						
-						<p>Access the same expert coaching no matter where you are. Our online coaching program includes workout plans, nutrition guidance, and regular check-ins to keep you on track with your fitness journey.<br/> <span>
-						Enthusiastically negotiate highly efficient manufactured products whereas distributed services. Conveniently impact e-business
-						</span></p>
+						<p>Our athletic mentoring focuses on skill enhancement, mental fortitude, and physical development. We provide tailored guidance for sports enthusiasts, ensuring they excel in their respective disciplines.
+						</p>
 					</div>
 					<div className="about-button">
-						<Link className="dexon-button" href="/service/service-details">Learn More About Athletic Mentoring <i className="bi bi-arrow-right-short"></i> </Link>
+						<Link className="dexon-button" href="/service/athletics-mentoring">Learn More About Athletic Mentoring <i className="bi bi-arrow-right-short"></i> </Link>
 					</div>
 				</div>
 			</div>
 			<div className="row align-items-center " style={{ marginBottom: '20px' }}>
 				<div className="col-lg-6 col-md-12">
 					<div className="about-left-thumb">
-					<Image src="/assets/images/resource/about7.png" alt="img" width={580} height={493}   />
+					<Image src="/assets/images/resource/cardio.webp" alt="img" width={580} height={493}   />
 					</div>
 				</div>
 				<div className="col-lg-6" >
 					<div className="dexon-section-title">
 						<h1>Cardio</h1>
 						
-						<p>Access the same expert coaching no matter where you are. Our online coaching program includes workout plans, nutrition guidance, and regular check-ins to keep you on track with your fitness journey.<br/> <span>
-						Enthusiastically negotiate highly efficient manufactured products whereas distributed services. Conveniently impact e-business
-						</span></p>
+						<p>Our cardio sessions combine variety and intensity to improve cardiovascular health. From treadmills to HIIT, we design programs that keep you motivated and maximize your results.</p>
 					</div>
 					<div className="about-button">
-						<Link className="dexon-button" href="/service/service-details">Learn More About Cardio  <i className="bi bi-arrow-right-short"></i> </Link>
+						<Link className="dexon-button" href="/service/cardio">Learn More About Cardio  <i className="bi bi-arrow-right-short"></i> </Link>
 					</div>
 				</div>
 			</div>
 			<div className="row align-items-center " style={{ marginBottom: '20px' }}>
 				<div className="col-lg-6 col-md-12">
 					<div className="about-left-thumb">
-					<Image src="/assets/images/resource/about7.png" alt="img" width={580} height={493}   />
+					<Image src="/assets/images/resource/about7.webp" alt="img" width={580} height={493}   />
 					</div>
 				</div>
 				<div className="col-lg-6" >
 					<div className="dexon-section-title">
 						<h1>Karate and Boxing</h1>
 						
-						<p>Access the same expert coaching no matter where you are. Our online coaching program includes workout plans, nutrition guidance, and regular check-ins to keep you on track with your fitness journey.<br/> <span>
-						Enthusiastically negotiate highly efficient manufactured products whereas distributed services. Conveniently impact e-business
-						</span></p>
+						<p>Our Karate and Boxing programs are a blend of physical fitness, skill-building, and mental discipline. Learn self-defense while improving agility, strength, and focus.</p>
 					</div>
 					<div className="about-button">
-						<Link className="dexon-button" href="/service/service-details">Learn More About Karate and Boxing <i className="bi bi-arrow-right-short"></i> </Link>
+						<Link className="dexon-button" href="/service/karate-and-boxing">Learn More About Karate and Boxing <i className="bi bi-arrow-right-short"></i> </Link>
 					</div>
 				</div>
 			</div>

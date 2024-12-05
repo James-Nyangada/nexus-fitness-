@@ -11,7 +11,7 @@ const ServiceDetails1 = () => {
 						<div className="col-lg-12 col-sm-12">
 							<div className="dexon-service-details-box">
 								<div className="dexon-service-thumb">
-								<Image src="/assets/images/resource/srd1.jpg" alt="img" width={856} height={500}   />
+								<Image src="/assets/images/resource/nutrition.webp" alt="img" width={856} height={500}   />
 								</div>
 								<div className="service-details-content">
 									<div className="service-page-title">
@@ -27,7 +27,7 @@ const ServiceDetails1 = () => {
 						<div className="col-lg-6 col-sm-6">
 							<div className="service-details-box">
 								<div className="service-details-icon">
-								<Image src="/assets/images/resource/srvc2.png" alt="img" width={30} height={28}   />
+								<Image src="/assets/images/resource/help-desk.png" alt="img" width={30} height={28}   />
 								</div>
 								<div className="service-details-title">
 									<h4> Proper Services </h4>
@@ -41,7 +41,7 @@ const ServiceDetails1 = () => {
 						<div className="col-lg-6 col-sm-6">
 							<div className="service-details-box">
 								<div className="service-details-icon">
-								<Image src="/assets/images/resource/srvc3.png" alt="img" width={30} height={30}   />
+								<Image src="/assets/images/resource/support.png" alt="img" width={30} height={30}   />
 								</div>
 								<div className="service-details-title">
 									<h4> Work Steps </h4>
@@ -56,7 +56,7 @@ const ServiceDetails1 = () => {
 						<div className="col-lg-6 col-sm-6">
 							<div className="service-details-box">
 								<div className="service-details-icon">
-								<Image src="/assets/images/resource/srvc4.png" alt="img" width={34} height={30}   />
+								<Image src="/assets/images/resource/graph.png" alt="img" width={34} height={30}   />
 								</div>
 								<div className="service-details-title">
 									<h4>Maintain Trends </h4>
@@ -69,7 +69,7 @@ const ServiceDetails1 = () => {
 						<div className="col-lg-6 col-sm-6">
 							<div className="service-details-box">
 								<div className="service-details-icon">
-								<Image src="/assets/images/resource/srvc6.png" alt="img" width={32} height={32}   />
+								<Image src="/assets/images/resource/24-7.png" alt="img" width={32} height={32}   />
 								</div>
 								<div className="service-details-title">
 									<h4> 24/7 Services </h4>
@@ -91,13 +91,13 @@ const ServiceDetails1 = () => {
 						</div>
 						<div className="col-lg-5 col-md-6">
 							<div className="service-details-thumb">
-							<Image src="/assets/images/resource/srd2.jpg" alt="img" width={300} height={250}   />
+							<Image src="/assets/images/resource/benefits.png" alt="img" width={300} height={250}   />
 							</div>
 						</div>
 						<div className="col-lg-7 col-md-6">
 							<div className="service-details-icon-box">
 								<div className="service-page-title2">
-									<h1>What You Benifits</h1>
+									<h1>What You Benifit</h1>
 								</div>
 								<div className="widget-service-details-icon">
 									<p><i className="bi bi-check-lg"></i> <span>Healthier Eating Habits: Build a sustainable relationship with food.
