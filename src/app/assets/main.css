@@ -507,6 +507,7 @@ img {
     visibility: visible;
   }
   .cs_site_branding {
+    margin-top: 30px;
     display: inline-block;
   }
   .cs_site_branding + .cs_nav {

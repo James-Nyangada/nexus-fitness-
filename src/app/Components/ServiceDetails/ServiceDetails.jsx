@@ -187,10 +187,10 @@ const ServiceDetails = () => {
 						<div className="widget-categories-content text-center">
 							<div className="logo-thumb">
 								<Link href="/">
-								<Image src="/assets/images/logo2.png" alt="img" width={124} height={26}   />
+								<Image src="/assets/images/3.png" alt="img" width={124} height={26}   />
 									 </Link>
 							</div>
-							<div className="widget-title2 text-black">
+							<div className="widget-title2">
 								<h3>Need Service?</h3>
 							</div>
 							<div className="widget-button">

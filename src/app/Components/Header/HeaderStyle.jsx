@@ -41,7 +41,7 @@ export default function HeaderStyle({ variant }) {
           <div className="cs_main_header_in">
             <div className="cs_main_header_left">
               <Link href="/" className="cs_site_branding">
-                <Image src="/assets/images/logo.png" alt="Logo" width={124} height={26}   />
+                <Image src="/assets/images/3.png" alt="Logo" width={160} height={46}   />
               </Link>
               </div>
               <div className="cs_main_header_center">

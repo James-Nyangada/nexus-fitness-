@@ -21,7 +21,7 @@ const Footer = () => {
       }
 
       const LogoContent = {
-        img1:'/assets/images/logo.png',
+        img1:'/assets/images/3.png',
         Content:'Welcome to your fitness home'
       }
 
