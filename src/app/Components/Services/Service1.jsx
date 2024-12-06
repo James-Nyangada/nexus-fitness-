@@ -33,9 +33,9 @@ const Service1 = () => {
 						<div className="col-lg-12">
 							<div className="single-service-box upper2">
                             <ServiceCard
-                                title="Social Media Mastery"
-                                content="Competently leverage other's diverse action items via vertical to aollaboratively harness ubiquitous materials"
-                                btnName="Read More"
+                                title="planing & Strategy"
+                                content="Planng and strategy are the key to success. We will help you develop a plan that will help you achieve your fitness goals."
+                                
                                 btnUrl="/service/service-details"
                             ></ServiceCard>
 							</div>
@@ -47,9 +47,9 @@ const Service1 = () => {
 						<div className="col-lg-12">
 							<div className="single-service-box upper">
                             <ServiceCard
-                                title="Customer Increasing"
-                                content="Competently leverage other's diverse action items via vertical to aollaboratively harness ubiquitous materials"
-                                btnName="Read More"
+                                title="Work"
+                                content="Our team of professionals will work with you to develop a comprehensive plan that will help you achieve your fitness goals."
+                                
                                 btnUrl="/service/service-details"
                             ></ServiceCard>
 							</div>
@@ -58,9 +58,9 @@ const Service1 = () => {
 						<div className="col-lg-12">
 							<div className="single-service-box upper3">
                             <ServiceCard
-                                title="Sales Statistics"
-                                content="Competently leverage other's diverse action items via vertical to aollaboratively harness ubiquitous materials"
-                                btnName="Read More"
+                                title="Results"
+                                content="We will provide you with the tools and support you need to succeed. Our team will help you achieve your fitness goals.Results are the end goal of any fitness program."
+                               
                                 btnUrl="/service/service-details"
                             ></ServiceCard>
 							</div>

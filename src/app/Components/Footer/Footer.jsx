@@ -96,7 +96,7 @@ const Footer = () => {
 				<div className="col-lg-6 col-md-6">
 					<div className="footer-bottom-content">
 						<div className="footer-bottom-content-copy">
-							<p>2023 - 2030 | Alrights reserved by ThemeServices</p>
+							<p>All Rights Reserved 2024| Website designed by Estetica Agency</p>
 						</div>
 					</div>
 				</div>

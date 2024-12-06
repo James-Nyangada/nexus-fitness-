@@ -57,19 +57,19 @@ const About3 = () => {
 				<div className="col-lg-8">
 					<div className="dexon-section-title">
 						<h1> Growing your Health using </h1>
-						<h1 className="sections">Andy&apos;s Services</h1>
+						<h1 className="sections">Nexus Services</h1>
 					</div>
-					<div className="rs-video">
+					{/* <div className="rs-video">
 						<div className="animate-border" onClick={handelClick}>
 							<span className="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true">
 							<i className="bi bi-play"></i></span>
 							<span className="video-title">Watch Video</span>
 						</div>
-					</div>
+					</div> */}
 				</div>
 				<div className="col-lg-4">
 					<div className="about-top-thumb">
-					<Image src="/assets/images/resource/abt-tp.jpg" alt="img" width={315} height={183}   />
+					<Image src="/assets/images/resource/4.jpg" alt="img" width={315} height={183}   />
 					</div>
 				</div>
 			</div>
@@ -79,7 +79,7 @@ const About3 = () => {
 					<Image src="/assets/images/resource/about4.webp" alt="img" width={575} height={495}   />
 					</div>
 				</div>
-				<div className="col-lg-6">
+				{/* <div className="col-lg-6">
 					<div className="row">
 						<div className="about-testi-scroll">
 							<div className="about-scrol">
@@ -108,7 +108,7 @@ const About3 = () => {
 						</div>
 						</div>
 					</div>
-				</div>
+				</div> */}
 			</div>
 			<div className="row counter-bg">
             {counter.map((item, i) => (

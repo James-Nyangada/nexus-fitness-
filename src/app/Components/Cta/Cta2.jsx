@@ -30,7 +30,7 @@ const Cta2 = () => {
 							<i className="bi bi-whatsapp"></i>
 						</div>
 						<div className="contact-title">
-							<span>What’s App</span>
+							<span>WhatsApp</span>
 							<h5>0797348630</h5>
 						</div>
 					</div>
@@ -48,7 +48,7 @@ const Cta2 = () => {
 				</div>
 				<div className="call-to-all-shape">
 					<div className="call-shape">
-					<Image src="/assets/images/resource/line.png" alt="img" width={302} height={376}   />
+					<Image src="/assets/images/resource/shap2.png" alt="img" width={302} height={376}   />
 					</div>
 					<div className="call-shape3">
 					<Image src="/assets/images/resource/shap1.png" alt="img" width={41} height={42}   />

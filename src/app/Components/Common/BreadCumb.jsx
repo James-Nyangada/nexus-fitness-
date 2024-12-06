@@ -30,7 +30,7 @@ const BreadCumb = ({bgImg,subTitle,title,content}) => {
             <Image src="/assets/images/resource/shap-2.png" alt="img" width={40} height={40}   />
             </div>
             <div className="inner-shape3">
-            <Image src="/assets/images/resource/inner-shp.png" alt="img" width={287} height={249}   />
+            <Image src="/assets/images/resource/icon4.png" alt="img" width={70} height={70}   />
             </div>
           </div>
         </div>

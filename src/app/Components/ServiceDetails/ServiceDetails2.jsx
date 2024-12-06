@@ -163,25 +163,25 @@ const ServiceDetails2 = () => {
 					</div>
 				</div>
 				<div className="col-lg-4 col-md-12">
-					<div className="widget_search mt-5 mt-lg-0">
+					{/* <div className="widget_search mt-5 mt-lg-0">
 						<form action="#" method="get">
 							<input type="text" name="s" value="" placeholder="Search Here" title="Search for:" />
 							<button type="submit" className="icons">
 								<i className="fa fa-search"></i>
 							</button>
 						</form>
-					</div>
+					</div> */}
 					<div className="widget-categories-box">
 						<div className="categories-title">
-							<h4> Category </h4>
+							<h4> Services </h4>
 						</div>
 						<div className="widget-categories-menu">
 							<ul>
-								<li className="active"><a href="service-details.html"> Marketing Strategy </a></li>
-								<li><a href="service-details.html"> Enterprise Consulting </a></li>
-								<li><a href="service-details.html"> Growth Tracking </a></li>
-								<li><a href="service-details.html"> Social Media Marketing</a></li>
-								<li><a href="service-details.html"> Keyword Research </a></li>
+								<li className="active"><a href="/service/personal-training"> Personal Training </a></li>
+								<li><a href="/service/nutrition-coaching"> Nutrition Coaching </a></li>
+								<li><a href="/service/aerobics"> Aerobics </a></li>
+								<li><a href="/service/athletics-mentoring"> Athletics Training</a></li>
+								<li><a href="/service/karate-and-boxing"> Karate and Boxing </a></li>
 							</ul>
 						</div>
 					</div>
@@ -196,7 +196,7 @@ const ServiceDetails2 = () => {
 								<h3>Need Service?</h3>
 							</div>
 							<div className="widget-button">
-								<Link href="/contact"> <i className="bi bi-envelope"></i> Contact Us </Link>
+								<Link href="/contact"> <i className="bi bi-envelope"></i> Book Now </Link>
 							</div>
 						</div>
 					</div>

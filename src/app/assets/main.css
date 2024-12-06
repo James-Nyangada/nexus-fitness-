@@ -1905,7 +1905,7 @@ span.video-title {
 }
 
 .single-service-box.upper {
-    background: url(/assets/images/resource/box-bg1.png);
+    background: url(/assets/images/resource/testi-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1913,7 +1913,7 @@ span.video-title {
 }
 
 .single-service-box.upper2 {
-    background: url(/assets/images/resource/box-bg2.png);
+    background: url(/assets/images/resource/testi-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1921,7 +1921,7 @@ span.video-title {
 }
 
 .single-service-box.upper3 {
-    background: url(/assets/images/resource/box-bg3.png);
+    background: url(/assets/images/resource/testi-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2444,7 +2444,7 @@ button.icons {
 
 /*widget categories thumb*/
 .widget-categories-thumb {
-    background: url(/assets/images/resource/feature-bg2.jpg);
+    background: url(/assets/images/resource/testi-bg.jpg);
     background-repeat: no-repeat;
     padding: 80px 0 80px;
     margin-top: 30px;
@@ -2456,7 +2456,7 @@ button.icons {
     font-size: 42px;
     line-height: 44px;
     font-weight: 600;
-    color: #ffff;
+    color: #050505;
     padding: 31px 0 40px;
 }
 
@@ -3830,7 +3830,7 @@ span.price-mon {
 <!-- ============================================================== -->*/
 
 .contact-us {
-    background: url(/assets/images/resource/contact-bg.jpg);
+    background: url(/assets/images/resource/about-shp.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
