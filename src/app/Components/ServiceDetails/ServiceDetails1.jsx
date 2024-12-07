@@ -197,7 +197,7 @@ const ServiceDetails1 = () => {
 								<h3>Need Service?</h3>
 							</div>
 							<div className="widget-button">
-								<Link href="/contact"> <i className="bi bi-envelope"></i> Book Now </Link>
+								<Link href="/booking"> <i className="bi bi-envelope"></i> Book Now </Link>
 							</div>
 						</div>
 					</div>

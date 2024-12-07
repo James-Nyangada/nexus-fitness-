@@ -5419,6 +5419,19 @@ ul.social-share li a:hover {
     outline: 0;
     border-radius: 4px;
 }
+.form-box select{
+    height: 54px;
+    background-color: #fff;
+    border: 1;
+    transition: .5s;
+    padding: 0px 25px;
+    display: block;
+    width: 100%;
+    color: #616161;
+    margin-bottom: 30px;
+    outline: 0;
+    border-radius: 4px;
+}
 
 .form-box textarea {
     height: 180px;
