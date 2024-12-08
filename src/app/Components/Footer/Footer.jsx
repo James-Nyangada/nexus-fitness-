@@ -16,7 +16,7 @@ const Footer = () => {
 
       const AdressContent = {
         address:'Kahawa Sukari, Nairobi, Kenya',
-        email:'andysfitnessexercises@gmail.com',
+        email:'thenexusfit@gmail.com',
         Number:'0797348630'
       }
 

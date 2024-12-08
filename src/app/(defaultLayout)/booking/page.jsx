@@ -14,6 +14,7 @@ const page = () => {
                 content="Get in touch with us for any questions or concerns. We will do our best to get back to you as soon as possible."
             ></BreadCumb>
             <Contact2></Contact2>
+            
             <Cta2></Cta2>
         </div>
     );

@@ -1,3 +1,4 @@
+import BookingForm from '@/app/Components/booking/BookingForm';
 import BreadCumb from '@/app/Components/Common/BreadCumb';
 import Contact from '@/app/Components/Contact/Contact';
 import Cta2 from '@/app/Components/Cta/Cta2';
@@ -14,6 +15,7 @@ const page = () => {
             ></BreadCumb>
             <Contact></Contact>
             <Cta2></Cta2>
+            <BookingForm></BookingForm>
         </div>
     );
 };

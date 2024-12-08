@@ -26,7 +26,7 @@ const Cta = () => {
 					<div className="dexon-section-title white">
                     <SectionTitle
                             Title="Are You Ready to begin <br>Healthy Living?"
-                            Content="Get on board with Nexus as we are an Institution that offers extensive health and fitness guidance and sessions. Be part of a great journey with us"
+                            Content="Get on board with Nexus as we are an Institution that offers extensive health and fitness guidance and sessions. Be part of a great journey with us."
                     ></SectionTitle>
 					</div>
 					<div className="dexon-button">

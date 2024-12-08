@@ -5419,6 +5419,49 @@ ul.social-share li a:hover {
     outline: 0;
     border-radius: 4px;
 }
+.react-calendar {
+    width: 100%;
+    max-width: 100%;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    line-height: 1.125em;
+    padding: 1rem;
+  }
+  .react-calendar__tile {
+    max-width: 100%;
+    padding: 1rem;
+    background: #f9f9f9;
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+  }
+.react-calendar__tile.highlight {
+    background: #3b82f6;
+    color: white;
+    border-radius: 8px;
+  }
+  .react-calendar__tile:active {
+    background: #d1ee2e;
+    color: white;
+  }
+  
+  .react-calendar__tile:hover {
+    background: #e2e8f0;
+  }
+  
+  /* Hover effect for calendar tiles */
+  .react-calendar__tile:enabled:hover {
+    background: #e2e8f0;
+    border-radius: 8px;
+  }
+  .react-calendar__tile.past-date {
+    color: #a0aec0;
+    pointer-events: none; /* Prevent interaction */
+    background: #f1f1f1;
+  }
+
 .form-box select{
     height: 54px;
     background-color: #fff;
