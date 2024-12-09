@@ -15,7 +15,7 @@ const page = () => {
             ></BreadCumb>
             <Contact></Contact>
             <Cta2></Cta2>
-            <BookingForm></BookingForm>
+            
         </div>
     );
 };

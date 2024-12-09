@@ -9,7 +9,7 @@ const Footer = () => {
       const UsefulLinks = [
         {title:'About Company', link:'/about'},
         {title:'Services', link:'/service'},
-        {title:'Team Member', link:'/team'},
+        /* {title:'Team Member', link:'/team'}, */
         {title:'Latest Blog', link:'/blog'},
         {title:'Contact Us', link:'/contact'}
       ];  
@@ -44,10 +44,10 @@ const Footer = () => {
 							<p> {LogoContent.Content}  </p>
 						</div>
 						<div className="follow-company-icon">
-							<a href="#"><i className="bi bi-facebook"></i> </a>
-							<a href="#"> <i className="bi bi-twitter"></i></a>
-							<a href="#"> <i className="bi bi-linkedin"></i> </a>
-							<a href="#"> <i className="bi bi-pinterest"></i> </a>
+							<a href="https://web.facebook.com/profile.php?id=61570228142994"><i className="bi bi-facebook"></i> </a>
+							<a href="https://www.instagram.com/thenexusfit/"> <i className="bi bi-instagram"></i></a>
+							<a href="https://www.tiktok.com/@thenexusfit"> <i className="bi bi-tiktok"></i> </a>
+							
 						</div>
 					</div>					
 				</div>
