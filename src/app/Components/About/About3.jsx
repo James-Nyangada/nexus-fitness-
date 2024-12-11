@@ -1,7 +1,7 @@
 "use client"
 import Slider from "react-slick";
-import data from '../../Data/testimonial3.json';
-import counter from '../../Data/counter.json';
+import data from '../../../data/testimonial3.json';
+import counter from '../../../data/counter.json';
 import { useState } from "react";
 import VideoModal from "../VideoModal/VideoModal";
 import Image from "next/image";

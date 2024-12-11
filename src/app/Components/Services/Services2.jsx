@@ -1,4 +1,4 @@
-import data from '../../Data/services1.json';
+import data from '../../../data/services1.json';
 import parse from 'html-react-parser';
 import Image from "next/image";
 import Link from 'next/link';

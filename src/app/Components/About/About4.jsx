@@ -1,7 +1,7 @@
 "use client"
 import { useEffect } from 'react';
-import counter from '../../Data/counter.json';
-import data from '../../Data/services2.json';
+import counter from '../../../data/counter.json';
+import data from '../../../data/services2.json';
 import SectionTitle from '../Common/SectionTitle';
 import loadBackgroudImages from '../Common/loadBackgroudImages';
 import Link from 'next/link';

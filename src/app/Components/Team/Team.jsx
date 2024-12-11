@@ -1,9 +1,9 @@
 "use client"
 import { useEffect } from 'react';
-import data from '../../Data/team1.json';
+import data from '../../../data/team1.json';
 import loadBackgroudImages from '../Common/loadBackgroudImages';
 import Slider from 'react-slick';
-import brand from '../../Data/brand.json';
+import brand from '../../../data/brand.json';
 import Image from 'next/image';
 
 const Team = () => {

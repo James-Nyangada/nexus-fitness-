@@ -8,14 +8,21 @@ export default function Nav({ setMobileToggle }) {
         <Link href="/">Home</Link>
         
       </li> */}
-      <li>
-        <Link href="/about" onClick={() => setMobileToggle(false)}>
+      <li >
+        <Link className='text-white' href="/about" onClick={() => setMobileToggle(false)}>
         About  
         </Link>
       </li>   
       <li className="">
-        <Link href="/service" onClick={() => setMobileToggle(false)}>
+        <Link className='text-white' href="/service" onClick={() => setMobileToggle(false)}>
           Services
+        </Link>
+        
+
+      </li>            
+      <li className="">
+        <Link className='text-white' href="/shop" onClick={() => setMobileToggle(false)}>
+          Shop
         </Link>
         
 
@@ -80,7 +87,7 @@ export default function Nav({ setMobileToggle }) {
         </DropDown>
       </li> */}
       <li>
-        <Link href="/contact" onClick={() => setMobileToggle(false)}>
+        <Link className='text-white' href="/contact" onClick={() => setMobileToggle(false)}>
           Contact
         </Link>
       </li>

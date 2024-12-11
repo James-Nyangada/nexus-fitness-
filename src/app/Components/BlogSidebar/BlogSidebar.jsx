@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import data from '../../Data/blog.json';
+import data from '../../../data/blog.json';
 import Image from 'next/image';
 
 const BlogSidebar = () => {

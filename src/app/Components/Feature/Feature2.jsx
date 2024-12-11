@@ -1,6 +1,6 @@
 "use client"
 import { useEffect } from 'react';
-import data from '../../Data/feature2.json';
+import data from '../../../data/feature2.json';
 import SectionTitle from '../Common/SectionTitle';
 import loadBackgroudImages from '../Common/loadBackgroudImages';
 import Image from 'next/image';

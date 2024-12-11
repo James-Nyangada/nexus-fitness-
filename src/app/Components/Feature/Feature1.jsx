@@ -2,9 +2,9 @@
 import { useEffect } from "react";
 import SectionTitle from "../Common/SectionTitle";
 import loadBackgroudImages from "../Common/loadBackgroudImages";
-import data from '../../Data/feature1.json';
+import data from '../../../data/feature1.json';
 import About1 from "../About/About1";
-import counter from '../../Data/counter.json';
+import counter from '../../../data/counter.json';
 import Image from "next/image";
 
 const Feature1 = () => {

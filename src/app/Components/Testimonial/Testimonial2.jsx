@@ -1,6 +1,6 @@
 "use client"
 import Slider from 'react-slick';
-import data from '../../Data/testimonial2.json';
+import data from '../../../data/testimonial2.json';
 import { useEffect } from 'react';
 import loadBackgroudImages from '../Common/loadBackgroudImages';
 import Link from 'next/link';

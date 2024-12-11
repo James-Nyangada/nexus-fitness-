@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import SectionTitle from "../Common/SectionTitle";
 import loadBackgroudImages from "../Common/loadBackgroudImages";
 import Slider from "react-slick";
-import data from '../../Data/testimonial1.json';
+import data from '../../../data/testimonial1.json';
 import CounterCard from "./CounterCard";
 import Link from "next/link";
 import Image from "next/image";

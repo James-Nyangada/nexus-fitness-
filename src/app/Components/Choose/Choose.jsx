@@ -1,6 +1,6 @@
 "use client"
 import Slider from 'react-slick';
-import brand from '../../Data/brand.json';
+import brand from '../../../data/brand.json';
 import VideoModal from '../VideoModal/VideoModal';
 import { useState } from 'react';
 import Link from 'next/link';

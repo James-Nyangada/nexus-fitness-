@@ -1,6 +1,6 @@
 "use client"
 import { useEffect, useRef, useState } from "react";
-import data from '../../Data/faq.json';
+import data from '../../../data/faq.json';
 import loadBackgroudImages from "../Common/loadBackgroudImages";
 
 const Faq = () => {

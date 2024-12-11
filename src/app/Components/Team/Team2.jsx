@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import data from '../../Data/team1.json';
+import data from '../../../data/team1.json';
 
 const Team2 = () => {
     return (

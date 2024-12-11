@@ -16,10 +16,10 @@ const HeroBanner1 = ({bgmage,Title1,Title2,content,btnName,btnUrl,heroShape1,her
 			<div className="row hero-bg">
 				<div className="col-lg-12">
 					<div className="hero-content">
-						<h1> {Title1} </h1>
-						<h2> {Title2} </h2>
-						<div className="hero-content-text-btn">
-							<p>{content}</p>
+						<h1 className="text-white"> {Title1} </h1>
+						<h2 className="text-white"> {Title2} </h2>
+						<div className="hero-content-text-btn ">
+							<p className="text-white">{content}</p>
 							<div className="hero-button">
 								<Link href={btnUrl}> {btnName} <i className="bi bi-arrow-right-short"></i></Link>
 							</div>
