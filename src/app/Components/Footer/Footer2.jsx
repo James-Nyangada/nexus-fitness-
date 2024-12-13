@@ -13,7 +13,7 @@ const Footer2 = () => {
 
       const AdressContent = {
         address:'Royels, Street Road 27, New York, <br/> USA - 87453',
-        email:'thenexusfit@gmail.com',
+        email:'andysfitnessexercises@gmail.com',
         Number:'0797348630'
       }
 

@@ -61,7 +61,7 @@ export default function HeaderStyle({ variant }) {
             </div>
             <div className="cs_main_header_right">
 						<div className="header-button">
-            <Link href="mailto:thenexusfit@gmail.com"><i className="bi bi-envelope"></i> thenexusfit@gmail.com</Link>
+            <Link href="mailto:andysfitnessexercises@gmail.com"><i className="bi bi-envelope"></i> andysfitnessexercises@gmail.com</Link>
 						</div>
             </div>
           </div>

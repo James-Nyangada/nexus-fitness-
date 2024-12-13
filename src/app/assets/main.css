@@ -3062,6 +3062,13 @@ h4.widget-title {
 .text-white{
     color: #fff;
 }
+.link-one{
+    color: red;
+}
+.link-one:hover{
+    text-decoration: underline;
+    color: rgb(94, 0, 0);
+}
 /*footer menu*/
 
 ul.footer-menu li {

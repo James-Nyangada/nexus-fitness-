@@ -16,12 +16,12 @@ const Footer = () => {
 
       const AdressContent = {
         address:'Kahawa Sukari, Nairobi, Kenya',
-        email:'thenexusfit@gmail.com',
+        email:'andysfitnessexercises@gmail.com',
         Number:'0797348630'
       }
 
       const LogoContent = {
-        img1:'/assets/images/3.png',
+        img1:'/assets/images/logo2.png',
         Content:'Welcome to your fitness home'
       }
 
@@ -96,7 +96,7 @@ const Footer = () => {
 				<div className="col-lg-6 col-md-6">
 					<div className="footer-bottom-content">
 						<div className="footer-bottom-content-copy">
-							<p>All Rights Reserved 2024| Website designed by Estetica Agency</p>
+							<p>All Rights Reserved 2024| Website designed by <Link className="link-one" href={"https://estetica-agency.vercel.app/"}>Estetica Agency</Link>| Powered by andysfitnessexercise</p>
 						</div>
 					</div>
 				</div>
