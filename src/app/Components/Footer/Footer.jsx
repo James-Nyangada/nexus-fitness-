@@ -10,18 +10,22 @@ const Footer = () => {
         {title:'About Company', link:'/about'},
         {title:'Services', link:'/service'},
         /* {title:'Team Member', link:'/team'}, */
-        {title:'Latest Blog', link:'/blog'},
+        {title:'Our Facilites', link:'/facilities'},
         {title:'Contact Us', link:'/contact'}
       ];  
 
       const AdressContent = {
-        address:'Kahawa Sukari, Nairobi, Kenya',
-        email:'andysfitnessexercises@gmail.com',
+        address:'Gwakairu/Ruiru Campus',
+        email:'thenexusfit@gmail.com',
         Number:'0797348630'
       }
 
       const LogoContent = {
         img1:'/assets/images/logo2.png',
+        Content:'Welcome to your fitness home'
+      }
+      const LogoContent1 = {
+        img1:'/assets/images/image2.png',
         Content:'Welcome to your fitness home'
       }
 
@@ -96,7 +100,7 @@ const Footer = () => {
 				<div className="col-lg-6 col-md-6">
 					<div className="footer-bottom-content">
 						<div className="footer-bottom-content-copy">
-							<p>All Rights Reserved 2024| Website designed by <Link className="link-one" href={"https://estetica-agency.vercel.app/"}>Estetica Agency</Link>| Powered by andysfitnessexercise</p>
+							<p>All Rights Reserved 2024| Website designed by <Link className="link-one" href={"https://estetica-agency.vercel.app/"}>Estetica Agency</Link>| Powered by <Link href="mailto:andysfitnessexercises@gmail.com" className="link-one" target="_blank">Andys fitness exercise <Image src={LogoContent1.img1} alt="img" width={60} height={60}   /></Link>  </p>
 						</div>
 					</div>
 				</div>
@@ -107,6 +111,7 @@ const Footer = () => {
 							<li><Link href="/service">Services</Link></li>
 							<li><Link href="/contact">Contact</Link></li>
 							<li><Link href="/faq">Faq</Link></li>
+							<li><Link href="/facilites">Our Facilites</Link></li>
 						</ul>
 					</div>
 				</div>

@@ -4,14 +4,23 @@ import React, { useState } from 'react';
 
 
 const products = [
-  { id: 1, name: 'Running Shoes', price: 89.99, category: 'Shoes', image: '/assets/images/resource/shoes.jpg' },
-  { id: 2, name: 'Fitness T-Shirt', price: 24.99, category: 'Clothes', image: '/assets/images/resource/shoes.jpg' },
-  { id: 3, name: 'Knee Straps', price: 12.99, category: 'Accessories', image: '/assets/images/resource/shoes.jpg' },
-  { id: 4, name: 'Ankle Straps', price: 9.99, category: 'Accessories', image: '/assets/images/resource/shoes.jpg' },
-  { id: 5, name: 'Workout Gloves', price: 19.99, category: 'Accessories', image: '/assets/images/resource/shoes.jpg' },
-  { id: 6, name: 'Dumbbell Set', price: 149.99, category: 'Equipment', image: '/assets/images/resource/shoes.jpg' },
-  { id: 7, name: 'Yoga Mat', price: 29.99, category: 'Equipment', image: '/assets/images/resource/shoes.jpg' },
-  { id: 8, name: 'Resistance Bands', price: 15.99, category: 'Equipment', image: '/assets/images/resource/shoes.jpg' },
+  { id: 1, name: '50mm Battle rope', price: 15500, category: 'Cardio Workout Equipment', image: '/assets/images/shop/battle-rope-2.webp' },
+  { id: 2, name: 'AB Glider/Ab coaster', price: 34500, category: 'Cardio Workout Equipment', image: '/assets/images/shop/ab-glider.jpg' },
+  { id: 3, name: 'AB Roller', price: 999, category: 'Cardio Workout Equipment', image: '/assets/images/shop/ab-roller.jpg' },
+  { id: 4, name: 'Adjustable Decline Bench for ABS', price: 50000, category: 'Cardio Workout Equipment', image: '/assets/images/shop/abs-bench.jpg' },
+  { id: 5, name: 'Aerobic Step', price: 39000, category: 'Cardio Workout Equipment', image: '/assets/images/shop/Aerobic-step-s.jpg' },
+  { id: 6, name: 'MR-536', price: 48000, category: 'Cardio Workout Equipment', image: '/assets/images/shop/mr-536.png' },
+  { id: 7, name: 'Battle Rop', price: 115000, category: 'Cardio Workout Equipment', image: '/assets/images/shop/PS242-748x1024.jpg' },
+  { id: 8, name: 'Commercial Aerobic Step', price: 18000, category: 'Cardio Workout Equipment', image: '/assets/images/shop/step-rbk-3.jpg' },
+  
+  { id: 9, name: 'Commercial Air Rowing Machine', price: 99000, category: 'Cardio Workout Equipment', image: '/assets/images/shop/air-rower-1024x713.jpg' },
+
+  { id: 10, name: 'Commercial Cross trainer', price: 440000, category: 'Cardio Workout Equipment', image: '/assets/images/shop/1686113447814.png' },
+
+  { id: 11, name: 'Commercial Elliptical Trainer', price: 220000, category: 'Cardio Workout Equipment', image: '/assets/images/shop/commercial-eliptical.jpg' },
+
+  { id: 12, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/shop/trampoline-a.jpg' },
+
 ];
 
 const ProductListingPage = () => {
@@ -39,7 +48,7 @@ const ProductListingPage = () => {
               onClick={() => openModal(product)}
             />
             <h3>{product.name}</h3>
-            <p className="price">${product.price.toFixed(2)}</p>
+            <p className="price">Ksh {product.price.toFixed(2)}</p>
             <p className="category">{product.category}</p>
           </div>
         ))}

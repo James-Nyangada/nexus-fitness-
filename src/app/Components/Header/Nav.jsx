@@ -21,6 +21,13 @@ export default function Nav({ setMobileToggle }) {
 
       </li>            
       <li className="">
+        <Link className='text-white' href="https://home-ify.co.ke/comming-soon" target='_blank' onClick={() => setMobileToggle(false)}>
+          Our Facilites
+        </Link>
+        
+
+      </li>            
+      <li className="">
         <Link className='text-white' href="/shop" onClick={() => setMobileToggle(false)}>
           Shop
         </Link>
