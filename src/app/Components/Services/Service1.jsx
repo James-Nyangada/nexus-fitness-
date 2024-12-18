@@ -33,8 +33,8 @@ const Service1 = () => {
 						<div className="col-lg-12">
 							<div className="single-service-box upper2">
                             <ServiceCard
-                                title="planing & Strategy"
-                                content="Planng and strategy are the key to success. We will help you develop a plan that will help you achieve your fitness goals."
+                                title="planning & Strategy"
+                                content="Planning and strategy are the key to success. We will help you develop a plan that will help you achieve your fitness goals."
                                 
                                 btnUrl="/service/service-details"
                             ></ServiceCard>

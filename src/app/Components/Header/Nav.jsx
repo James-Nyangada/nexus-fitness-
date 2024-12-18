@@ -28,7 +28,7 @@ export default function Nav({ setMobileToggle }) {
 
       </li>            
       <li className="">
-        <Link className='text-white' href="/shop" onClick={() => setMobileToggle(false)}>
+        <Link className='text-white' href="https://nexus-shop.vercel.app/" target='_blank' onClick={() => setMobileToggle(false)}>
           Shop
         </Link>
         
