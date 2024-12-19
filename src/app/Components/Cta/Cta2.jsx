@@ -31,18 +31,18 @@ const Cta2 = () => {
 						</div>
 						<div className="contact-title">
 							<span>WhatsApp</span>
-							<h5>0797348630</h5>
+							<a href="https://wa.me/+254797348630"><h5>0797348630</h5></a>
 						</div>
 					</div>
 				</div>
 				<div className="col-lg-4 col-md-6">
 					<div className="contact-info upper2">
 						<div className="contact-icon">
-							<i className="bi bi-send-fill"></i>
+							<i className="bi bi-instagram"></i>
 						</div>
 						<div className="contact-title">
-							<span>Telegram</span>
-							<h5>Telegram/Nexus</h5>
+							<span>Instagram</span>
+							<a href="https://www.instagram.com/thenexusfit/"><h5>thenexusfit</h5></a>
 						</div>
 					</div>
 				</div>

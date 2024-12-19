@@ -10,7 +10,7 @@ const Cta = () => {
     const CallContent = {
         icon:'/assets/images/resource/call.png',
         title2:'0797348630',
-        Content:'Whats App/Call',
+        Content:'WhatsApp us!',
       }    
 
       useEffect(() => {
@@ -40,7 +40,7 @@ const Cta = () => {
 						<Image src={CallContent.icon} alt="img" width={50} height={50}   />
 						</div>
 						<div className="call-number">
-							<h1>{CallContent.title2}</h1>
+							<a href="https://wa.me/+254797348630"><h1>{CallContent.title2}</h1></a>
 						</div>
 						<div className="call-text">
 							<span>({CallContent.Content})</span>
