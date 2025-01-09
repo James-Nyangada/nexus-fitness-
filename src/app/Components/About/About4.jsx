@@ -108,7 +108,7 @@ const About4 = () => {
 					</div>
 				</div>
 			</div>
-			<div className="row align-items-center " style={{ marginBottom: '20px' }}>
+			{/* <div className="row align-items-center " style={{ marginBottom: '20px' }}>
 				<div className="col-lg-6 col-md-12">
 					<div className="about-left-thumb">
 					<Image src="/assets/images/resource/about7.webp" alt="img" width={580} height={493}   />
@@ -124,7 +124,7 @@ const About4 = () => {
 						<Link className="dexon-button" href="/service/karate-and-boxing">Learn More About Karate and Boxing <i className="bi bi-arrow-right-short"></i> </Link>
 					</div>
 				</div>
-			</div>
+			</div> */}
 			
 			<div className="row counter-bg">
             {counter.map((item, i) => (

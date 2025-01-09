@@ -404,7 +404,8 @@ img {
     border-bottom: 1px solid #535353;
   }
   .cs_site_header.cs_style_1.cs-sticky-active {
-    background-color: #000;
+    background-color: #eb1919;
+    opacity: 0.5;
     box-shadow: 0 10px 10px -10px rgba(33, 43, 53, 0.1);
   }
   .cs_top_nav {

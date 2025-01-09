@@ -9,7 +9,7 @@ const Home = () => {
     return (
         <div>
             <HeroBanner1
-                bgmage="/assets/images/resource/hero-img.jpg"
+                bgmage="/assets/images/resource/hero-img.webp"
                 Title1="Transform Your Health body and mind"
                 Title2="with Nexus"
                 content="Achieve lasting wellness through personalized fitness and health coaching"

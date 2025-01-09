@@ -73,7 +73,7 @@ const Choose = () => {
 				<div className="col-lg-6 col-md-6">
 					<div className="single-choose-us-box2">
 						<div className="choose-thumb">
-						<Image src="/assets/images/resource/main-img.png" alt="img" width={636} height={398}   />
+						<Image src="/assets/images/resource/main-img.webp" alt="img" width={636} height={398}   />
 							<div className="choose-button">
 								<Link href="/service/athletics-mentoring">Grow Your athletic potential</Link>
 							</div>
@@ -83,7 +83,7 @@ const Choose = () => {
 				<div className="col-lg-6 col-md-6">
 					<div className="single-choose-us-box2">
 						<div className="choose-thumb">
-						<Image src="/assets/images/resource/mma.jpg" alt="img" width={636} height={398}   />
+						<Image src="/assets/images/resource/mma.webp" alt="img" width={636} height={398}   />
 							<div className="choose-button">
                             <Link href="/service/karate-and-boxing">A great social fitness Environment</Link>
 							</div>
