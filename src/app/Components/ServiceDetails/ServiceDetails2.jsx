@@ -11,7 +11,7 @@ const ServiceDetails2 = () => {
 						<div className="col-lg-12 col-sm-12">
 							<div className="dexon-service-details-box">
 								<div className="dexon-service-thumb">
-								<Image src="/assets/images/resource/aerobics.webp" alt="img" width={856} height={500}   />
+								<Image src="/assets/images/resource/aerobics.jpg" alt="img" width={856} height={500}   />
 								</div>
 								<div className="service-details-content">
 									<div className="service-page-title">

@@ -57,7 +57,7 @@ const About4 = () => {
 			<div className="row align-items-center " style={{ marginBottom: '20px' }}>
 				<div className="col-lg-6 col-md-12">
 					<div className="about-left-thumb">
-					<Image src="/assets/images/resource/aerobics.webp" alt="img" width={580} height={493}   />
+					<Image src="/assets/images/resource/aerobics.jpg" alt="img" width={580} height={493}   />
 					</div>
 				</div>
 				<div className="col-lg-6" >
@@ -94,7 +94,7 @@ const About4 = () => {
 			<div className="row align-items-center " style={{ marginBottom: '20px' }}>
 				<div className="col-lg-6 col-md-12">
 					<div className="about-left-thumb">
-					<Image src="/assets/images/resource/cardio.webp" alt="img" width={580} height={493}   />
+					<Image src="/assets/images/resource/cardio.jpg" alt="img" width={580} height={493}   />
 					</div>
 				</div>
 				<div className="col-lg-6" >

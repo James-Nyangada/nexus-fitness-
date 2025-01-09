@@ -15,7 +15,7 @@ const Footer = () => {
       ];  
 
       const AdressContent = {
-        address:'Gwakairu/Ruiru Campus',
+        address:'Bypass Kamakis',
         email:'thenexusfit@gmail.com',
         Number:'0797348630'
       }
