@@ -8,7 +8,7 @@ const page = () => {
     return (
         <div>
             <BreadCumb
-                bgImg="/assets/images/resource/hero.png"
+                bgImg="/assets/images/resource/hero1.webp"
                 subTitle="Services"
                 title="Achieve Your Best Self with Our Coaching Programs"
                 content="Explore our range of services designed to help you reach optimal health and wellness."

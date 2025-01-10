@@ -86,7 +86,7 @@ const Contact2 = () => {
 			<div className="row">
 				<div className="col-lg-6">
 					<div className="contact-thumb">
-					<Image src="/assets/images/resource/main-img.png" alt="img" width={624} height={681}   />
+					<Image src="/assets/images/resource/hero2.webp" alt="img" width={624} height={681}   />
 					</div>
 				</div>
 				<div className="col-lg-6">
