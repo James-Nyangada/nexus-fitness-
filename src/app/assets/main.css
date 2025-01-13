@@ -140,7 +140,11 @@ h6 {
 .text-yellow{
     color: #ffde5d;
 }
-
+.name-link{
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+}
 .white h1,
 .white h2,
 .white h3,

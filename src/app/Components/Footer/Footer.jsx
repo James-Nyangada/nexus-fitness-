@@ -100,7 +100,7 @@ const Footer = () => {
 				<div className="col-lg-6 col-md-6">
 					<div className="footer-bottom-content">
 						<div className="footer-bottom-content-copy">
-							<p>All Rights Reserved 2024| Website designed by <Link className="link-one" href={"https://estetica-agency.vercel.app/"}>Estetica Agency</Link>| Powered by <Link href="mailto:andysfitnessexercises@gmail.com" className="link-one" target="_blank">Andys fitness exercise <Image src={LogoContent1.img1} alt="img" width={60} height={60}   /></Link>  </p>
+							<p>All Rights Reserved 2024| Website designed by <Link className="link-one" href={"https://estetica-agency.vercel.app/"}>Estetica Agency</Link>| Powered by <Link href="mailto:andysfitnessexercises@gmail.com" className="link-one" target="_blank">Andy&apos;s fitness exercise <Image src={LogoContent1.img1} alt="img" width={60} height={60}   /></Link>  </p>
 						</div>
 					</div>
 				</div>

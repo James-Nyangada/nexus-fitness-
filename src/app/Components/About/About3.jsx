@@ -58,6 +58,7 @@ const About3 = () => {
 					<div className="dexon-section-title">
 						<h1> Growing your Health using </h1>
 						<h1 className="sections">Nexus Services</h1>
+						<p className="text-black">Led by one of the best coaches in the fitness and health industry,<a className="name-link">Coach Andy</a>. Nexus, as a fitness and health institution has a passion for helping people achieve their wellness goals. With over 10 years of experience in the industry, Nexus combines expertise in exercise science and nutrition to offer a comprehensive approach to fitness.</p>
 					</div>
 					{/* <div className="rs-video">
 						<div className="animate-border" onClick={handelClick}>

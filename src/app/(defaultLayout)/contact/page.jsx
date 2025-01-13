@@ -8,7 +8,7 @@ const page = () => {
     return (
         <div>
             <BreadCumb
-                bgImg="/assets/images/resource/hero.png"
+                bgImg="/assets/images/resource/contact-hero.webp"
                 subTitle="Contact"
                 title="Feel Free to Contact with <br>Our Support Team"
                 content="Get in touch with us for any questions or concerns. We will do our best to get back to you as soon as possible."

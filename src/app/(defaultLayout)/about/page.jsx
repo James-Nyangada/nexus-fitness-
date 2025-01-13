@@ -12,7 +12,7 @@ const page = () => {
                 bgImg="/assets/images/resource/hero2.webp"
                 subTitle="About"
                 title="Meet Nexus <br>Your Guide to a Healthier Life."
-                content="Led by one of the best coaches in the fitness and health industry,Coach Andy. Nexus, as a fitness and health institution has a passion for helping people achieve their wellness goals. With over 10 years of experience in the industry, Nexus combines expertise in exercise science and nutrition to offer a comprehensive approach to fitness."
+                content=""
             ></BreadCumb>
             <About3></About3>
             <Feature3></Feature3>
