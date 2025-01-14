@@ -1,32 +1,32 @@
 [
   {
     "icon": "/assets/images/resource/srvc2.png",
-    "title": "Marketing",
-    "desc": "Monotonectally foster principles toper supply chains visvis sustainables hads new items energistically"
+    "title": "Aerobics",
+    "desc": "High-energy group workouts combining cardio moves and music to improve stamina, burn calories, and boost heart health."
   },
   {
     "icon": "/assets/images/resource/srvc.png",
-    "title": "SMM Service",
-    "desc": "Monotonectally foster principles toper supply chains visvis sustainables hads new items energistically"
+    "title": "Personal Training",
+    "desc": "Customized one-on-one coaching tailored to your fitness goals, providing guidance, motivation, and accountability."
   },
   {
-    "icon": "/assets/images/resource/srvc3.png",
-    "title": "Page Optimize",
-    "desc": "Monotonectally foster principles toper supply chains visvis sustainables hads new items energistically"
+    "icon": "/assets/images/resource/srvc.png",
+    "title": "Weight Training",
+    "desc": "Strength-building exercises using free weights, machines, and bodyweight to tone muscles and enhance physical performance."
   },
   {
     "icon": "/assets/images/resource/srvc4.png",
-    "title": "Google Ranking",
-    "desc": "Monotonectally foster principles toper supply chains visvis sustainables hads new items energistically"
+    "title": "Karate",
+    "desc": "Martial arts classes promoting self-defense, discipline, and fitness through dynamic techniques and training."
   },
   {
     "icon": "/assets/images/resource/srvc5.png",
-    "title": "Development",
-    "desc": "Monotonectally foster principles toper supply chains visvis sustainables hads new items energistically"
+    "title": "Zumba",
+    "desc": "Dance-based cardio sessions set to upbeat music, blending fun and fitness to keep you energized and motivated."
   },
   {
     "icon": "/assets/images/resource/srvc6.png",
-    "title": "Design",
-    "desc": "Monotonectally foster principles toper supply chains visvis sustainables hads new items energistically"
+    "title": "Nutrition Guidance",
+    "desc": "Expert advice on healthy eating and meal planning to complement your fitness journey and achieve lasting results."
   }
 ]
