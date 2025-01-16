@@ -20,7 +20,7 @@ const Feature1 = () => {
                         <div className="col-lg-12">
                             <div className="dexon-section-title padding-lg2">
                             <SectionTitle
-                                    Title="Serivces overview"
+                                    Title="Services overview"
                                 ></SectionTitle>
                             </div>
                         </div>
