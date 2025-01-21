@@ -6,10 +6,14 @@ Version: 1.0.0
 Text Domain: Dexon
 Tags: agency, consulting, digital agency, digital marketing, digital marketing agency, marketing, marketing agency, media agency, portfolio, seo, seo agency, seo agency theme, seo marketing, smm, social media marketing agency.
 ================================================*/
-
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.cdnfonts.com/css/clash-display');
+
+
 
 
 :root {
@@ -175,6 +179,120 @@ ul {
     padding: 0;
 }
 
+.container {
+    max-width: 72rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+  }
+  
+  @media (min-width: 768px) {
+    .container {
+      padding: 1.5rem;
+    }
+  }
+  
+  .days-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 100px;
+    margin-bottom: 2rem;
+  }
+  
+  .day-button {
+    flex-grow: 1;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    transition: background-color 0.3s, color 0.3s;
+    background-color: white;
+    color: black;
+    border: 1px solid #e5e7eb;
+  }
+  
+  .day-button:hover {
+    background-color: #f3f4f6;
+  }
+  
+  .day-button.active {
+    background-color: #fbbf24;
+    color: black;
+    border: none;
+  }
+  
+  @media (min-width: 640px) {
+    .day-button {
+      flex-grow: 0;
+    }
+  
+    .day-button:nth-child(n + 4) {
+      margin-top: 0.5rem;
+    }
+  }
+  
+  .schedule-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .schedule-item {
+    background-color: #f9fafb;
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+  
+  .schedule-item-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+  }
+  
+  .schedule-item-field {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .schedule-item-label {
+    font-size: 0.875rem;
+    color: #6b7280;
+  }
+  
+  .schedule-item-value {
+    font-weight: 600;
+  }
+  
+  .join-button {
+    width: 100%;
+    background-color: #374151;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+    transition: background-color 0.3s;
+    margin-top: 0.5rem;
+  }
+  
+  .join-button:hover {
+    background-color: #1f2937;
+  }
+  
+  @media (min-width: 768px) {
+    .schedule-item {
+      padding: 1.5rem;
+    }
+  
+    .schedule-item-content {
+      text-align: left;
+    }
+  
+    .join-button {
+      width: auto;
+    }
+  }
+  
+  
 
 
 input:focus, button:focus {
