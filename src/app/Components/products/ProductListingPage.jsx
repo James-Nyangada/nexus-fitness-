@@ -19,7 +19,45 @@ const products = [
 
   { id: 11, name: 'Commercial Elliptical Trainer', price: 220000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/11.jpg' },
 
-  { id: 12, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/13.jpg' },
+  { id: 12, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/12.jpg' },
+  { id: 13, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/13.jpg' },
+
+  { id: 14, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/14.jpg' },
+
+  { id: 15, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/15.jpg' },
+
+  { id: 16, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/16.jpg' },
+
+  { id: 17, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/17.jpg' },
+
+  { id: 18, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/18.jpg' },
+
+  { id: 19, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/19.jpg' },
+
+  { id: 20, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/20.jpg' },
+
+  { id: 21, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/21.jpg' },
+
+  { id: 22, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/22.jpg' },
+
+  { id: 23, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/23.jpg' },
+
+  { id: 24, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/24.jpg' },
+
+  { id: 25, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/25.jpg' },
+
+  { id: 26, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/26.jpg' },
+
+  { id: 27, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/27.jpg' },
+
+  { id: 28, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/28.jpg' },
+
+  { id: 29, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/29.jpg' },
+
+  { id: 30, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/30.jpg' },
+  { id: 31, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/31.jpg' },
+  { id: 32, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/32.jpg' },
+  { id: 33, name: 'Commercial Trampoline', price: 28000, category: 'Cardio Workout Equipment', image: '/assets/images/gallery/33.jpg' },
 
 ];
 
