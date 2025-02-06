@@ -70,7 +70,7 @@ const About3 = () => {
 				</div>
 				<div className="col-lg-4">
 					<div className="about-top-thumb">
-					<Image src="/assets/images/resource/4.jpg" alt="img" width={315} height={183}   />
+					<Image src="/assets/images/resource/4.webp" alt="img" width={315} height={183}   />
 					</div>
 				</div>
 			</div>
