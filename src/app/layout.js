@@ -20,13 +20,13 @@ const clashdisplay = localFont({
 export const metadata = {
   title: {
     absolute: '',
-    default: 'Nexus - Welcome to your fitness home',
-    template: '%s | Nexus - Welcome to your fitness home',
+    default: 'Nexus Fitness | Best Gym in Thika Road, Kiambu & Nairobi - Premium Fitness Center',
+    template: '%s | Nexus Fitness | Best Gym in Thika Road, Kiambu & Nairobi - Premium Fitness',
   },
-  description: 'Nexus - Welcome to your fitness home',
+  description: 'Looking for the best fitness gym in Thika Road, Kiambu & Nairobi? Nexus Fit offers high-tech gym facilities, personal training, and modern fitness equipment for all fitness levels. Join today!',
   openGraph: {
-    title: 'Nexus - Welcome to your fitness home',
-    description: 'Nexus - Welcome to your fitness home',
+    title: 'Nexus Fitness | Best Gym in Thika Road, Kiambu & Nairobi - Premium Fitness Center',
+    description: 'Looking for the best fitness gym in Thika Road, Kiambu & Nairobi? Nexus Fit offers high-tech gym facilities, personal training, and modern fitness equipment for all fitness levels. Join today!',
     image: '/openGraphImage.jpg',
   },
 };
@@ -36,6 +36,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="author" content="Estetica Agency" />
+        <meta name="keywords" content="Best gym in Thika Road, Fitness center in Nairobi County, Modern gym with facilities in Nairobi, Premium personal training in Nairobi, Top-rated fitness club in thika road,Affordable gym membership in Kiambu" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
       <body className={`${kumbh_sans.variable} ${clashdisplay.variable}`}>

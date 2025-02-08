@@ -11,8 +11,8 @@ const page = () => {
             <BreadCumb
                 bgImg="/assets/images/resource/hero2.webp"
                 subTitle="About"
-                title="Meet Nexus <br>Your Guide to a Healthier Life."
-                content=""
+                title="Story of Nexus Fit: Why we are the top gym in Thika Road"
+                content="State-of-the-Art Gym Equipment for the Best Workout"
             ></BreadCumb>
             <About3></About3>
             <Feature3></Feature3>

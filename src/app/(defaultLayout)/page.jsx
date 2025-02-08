@@ -12,7 +12,7 @@ const Home = () => {
                 bgmage="/assets/images/resource/hero-img.webp"
                 Title1="Transform Your Health body and mind"
                 Title2="with Nexus"
-                content="Achieve lasting wellness through personalized fitness and health coaching"
+                content="Personalized Training for Strength & Weight Loss"
                 btnName=" Get Started Today"
                 btnUrl="/about"
                 heroShape1="/assets/images/slider/hero-shp1.png"

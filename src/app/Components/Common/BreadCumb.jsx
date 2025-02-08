@@ -19,7 +19,7 @@ const BreadCumb = ({bgImg,subTitle,title,content}) => {
             <div className="breatcam-content text-center">
               <h4> <span> {subTitle} </span> </h4>
               <h1 className="text-white">{parse(title)}</h1>
-              <p className="text-black font-[800]">{content}</p>
+              <p className="text-white font-[800]">{content}</p>
             </div>
           </div>
           <div className="inner-page-shape">
