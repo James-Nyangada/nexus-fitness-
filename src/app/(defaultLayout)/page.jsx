@@ -9,12 +9,12 @@ const Home = () => {
     return (
         <div>
             <HeroBanner1
-                bgmage="/assets/images/resource/hero-img.webp"
+                bgmage="/assets/images/resource/cardio-1.webp"
                 Title1="Transform Your Health body and mind"
                 Title2="with Nexus"
                 content="Personalized Training for Strength & Weight Loss"
                 btnName=" Get Started Today"
-                btnUrl="/about"
+                btnUrl="/Schedule"
                 heroShape1="/assets/images/slider/hero-shp1.png"
                 heroShape2="/assets/images/slider/hero-shp2.png"
                 heroShape3="/assets/images/slider/circle.png"
